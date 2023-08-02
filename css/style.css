@@ -1,0 +1,71 @@
+.passport-border {
+    border-radius: 0px !important;
+    border-bottom-color: #ce94ff !important;
+    border-bottom: 1px solid !important;
+
+}
+
+/* font sizes */
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-16 {
+    font-size: 16px;
+}
+
+.fs-18 {
+    font-size: 18px;
+}
+
+.fs-24 {
+    font-size: 24px;
+}
+
+.fs-26 {
+    font-size: 26px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+
+
+
+/* colors  */
+.color-01
+ {
+    color: black;
+}
+.text_darkgrey {
+    color: grey;
+  }
+/* font weight */
+.fw-600 {
+    font-weight: 600;
+}
+
+.fw-700 {
+    font-weight: 700;
+}
+
+.shadow-light {
+    box-shadow: 0px 0px 59px rgba(0, 0, 0, 0.2);
+}
+
+.border_black {
+    border: 1px solid black;
+}
+
+.button_primary {
+    background-color: #1d8bbe;
+    border-radius: 3px;
+}
+
+.form_input {
+    border-bottom: 2px solid #ce94ff !important;
+}
+
+input::placeholder {
+    color: rgb(172, 167, 167) !important;
+}
